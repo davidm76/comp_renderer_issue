@@ -7,11 +7,11 @@ when used with the Grid and RouterLayout.
 
 The project has 2 grids with a Tab based RouterLayout used to navigate between them.
 
-When the gage is visited directly using the full route, for example:
+When the page is visited directly using the full route, for example:
 
 http://localhost:8881/users
 
-Then the component renderes correctly render CheckBox in the "Enabled" column.
+Then the component renderer's correctly render CheckBox in the "Enabled" column.
 
 It you navigate to the second grid, but using the `Devices` tab, you can see that
 the Checkbox on that second grid, do not appear.
