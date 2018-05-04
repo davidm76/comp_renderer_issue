@@ -18,7 +18,7 @@ the Checkbox on that second grid, do not appear.
 
 Only when the browser window is refreshed do they appear.
 
-If I navigate bacl to the `Users` tab, the same issue occurs, and a browser refresh fixes it.
+If I navigate back to the `Users` tab, the same issue occurs, and a browser refresh fixes it.
 
 The GIF below, shows the issue:
 
